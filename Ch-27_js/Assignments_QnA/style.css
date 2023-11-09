@@ -1,0 +1,16 @@
+.btnStyle{
+    background-color: blue;
+    color: #fff;
+    border: 2px solid black;
+}
+
+u{
+    color: lightgreen;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+p{
+    color: red;
+}

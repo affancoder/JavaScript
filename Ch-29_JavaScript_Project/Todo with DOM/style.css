@@ -1,0 +1,73 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 0 5rem;
+}
+h2{
+    color: blue;
+    font-size: 3rem;
+    text-align: center;
+}
+input{
+    height: 2rem;
+    padding: 10px;
+    font-size: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.505);
+}
+button{
+    height: 2rem;
+    width: 50%;
+    background-color: blue;
+    margin-left: 25%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: .5rem;
+}
+.delete{
+    background-color: red;
+
+}*{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 0 5rem;
+}
+h2{
+    color: blue;
+    font-size: 3rem;
+    text-align: center;
+}
+input{
+    height: 2rem;
+    padding: 10px;
+    font-size: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.505);
+}
+button{
+    height: 2rem;
+    width: 20%;
+    background-color: blue;
+    margin-left: 40%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: .5rem;
+}
+ul button{
+    margin-left: 20%;
+}
+.delete{
+    background-color: red;
+}
