@@ -1,3 +1,3 @@
-# JavaScript
+# JavaScript Programming Codes
 
-My essentials javascript codes from one of my preimium course 
+My all essentials javascript codes from one of my preimium course 
