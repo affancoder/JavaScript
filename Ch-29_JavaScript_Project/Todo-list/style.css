@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  font: sans-serif;
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background-color: azure;
+}
+h1 {
+  font-size: 2.2rem;
+  color: black;
+  font-weight: 900;
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  border: border-box;
+  background-color: lawngreen;
+  border: 1px solid gray;
+}
+.input {
+  padding: 50px;
+  border: border-box;
+  background-color: rgb(116, 224, 188);
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+input {
+  height: 20px;
+  border-radius: 12px;
+  padding: 20px;
+  font-size: 1rem;
+  border: 1px solid slategray;
+}
+.input button {
+  height: 60px;
+  border-radius: 12px;
+  border: 1px solid slategray;
+  padding: 0px 14px;
+  background-color: tomato;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.input button:hover {
+  background-color: rgb(242, 67, 36);
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.items li {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: steelblue;
+  font-weight: 600;
+  margin: 20px;
+}
+
+.items button {
+  background-color: red;
+  padding: 10px;
+  color: white;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.items button:hover {
+  background-color: rgb(241, 50, 50);
+}
+
+footer {
+  border: border-box;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: aliceblue;
+}

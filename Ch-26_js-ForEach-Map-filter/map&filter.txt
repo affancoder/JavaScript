@@ -1,0 +1,3 @@
+for each : does not provide return value means undefined
+
+Map : it's provide a new array to callback function 
