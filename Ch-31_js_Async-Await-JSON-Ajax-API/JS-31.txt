@@ -1,0 +1,9 @@
+async function - use for return promises(then/catch)
+
+await keyword - use to delay & only use under async function
+
+Callback hell(nesting function calls) --> Promises(then/catch) --> Async & Await functions
+
+XML is old API format, JSON: Javascript Object Notation is format of API
+
+Hoppscotch - online API testing tool
